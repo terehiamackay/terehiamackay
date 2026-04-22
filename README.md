@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+👩‍💻 I'm currently working on an agent called Elisha beliving for double portion in capacity 🤺 and mad skills 🥷
 <!--
 **terehiamackay/terehiamackay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
