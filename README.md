@@ -1,5 +1,7 @@
 ## Hi there 👋
 👩‍💻 I'm currently working on an agent called Elisha beliving for double portion in capacity 🤺 and mad skills 🥷
+
+🎮 Built a small Pong game: open `/home/runner/work/terehiamackay/terehiamackay/pong.html` in your browser to play.
 <!--
 **terehiamackay/terehiamackay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
