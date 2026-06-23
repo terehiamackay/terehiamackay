@@ -1,5 +1,9 @@
 ## Hi there 👋
 👩‍💻 I'm currently working on an agent called Elisha beliving for double portion in capacity 🤺 and mad skills 🥷
+
+### Prospa org access
+- Edit (push) access: **none**
+- Visible repo in Prospa org: `Prospa/Data` (read-only)
 <!--
 **terehiamackay/terehiamackay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
