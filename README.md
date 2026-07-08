@@ -1,5 +1,23 @@
 ## Hi there 👋
 👩‍💻 I'm currently working on an agent called Elisha beliving for double portion in capacity 🤺 and mad skills 🥷
+
+## How do I know if GitHub Copilot CLI is installed?
+
+Run:
+
+```bash
+copilot version
+```
+
+If Copilot CLI is installed, the command prints version information. If you see `command not found`, it is not installed or is not on your `PATH`.
+
+You can also try:
+
+```bash
+copilot help
+```
+
+If you need to install it, follow the GitHub docs: https://docs.github.com/en/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli
 <!--
 **terehiamackay/terehiamackay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
